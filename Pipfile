@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 requests = "*"
 beautifulsoup4 = "*"
+llama-index-vector-stores-pinecone = "*"
+pinecone-client = "*"
+python-dotenv = "*"
+llama-index-llms-openai = "*"
+llama-index-embeddings-openai = "*"
 
 [dev-packages]
 
